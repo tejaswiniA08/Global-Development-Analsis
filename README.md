@@ -1,10 +1,4 @@
-Here’s a comprehensive `README.md` content for your GitHub repository based on the Tableau project and PDF report titled **"Global Development Analysis"**:
-
----
-
-# 🌍 Global Development Analysis — Tableau Dashboard
-
-![Project Banner](https://public.tableau.com/views/InfoVizualisation-Group-5/D1-Overview?\:language=en-US\&publish=yes&\:sid=&\:display_count=n&\:origin=viz_share_link)
+🌍 Global Development Analysis — Tableau Dashboard
 
 This project presents a series of interactive Tableau dashboards that explore **economic, educational, technological, climatic, and health indicators** across 227 countries. It visualizes how development factors such as GDP, literacy rate, mobile access, and climate vary globally, using a cleaned and enhanced dataset.
 
@@ -60,24 +54,7 @@ The dataset includes:
 
 > The original dataset was cleaned, normalized, and enhanced with calculated fields like GDP category, literacy level, and dominant sector.
 
----
 
-## 👥 Contributors
-
-| Name                                 | PSID    | Role                                                 |
-| ------------------------------------ | ------- | ---------------------------------------------------- |
-| Naga Venkata Siva Tejaswini Anguluri | 2202760 | Project lead, visual design, mobile impacts analysis |
-| Akanksha Samindla                    | 2302040 | Interactivity, Wikipedia links, communication index  |
-| Sameer Shaik                         | 2295647 | GDP sector visuals, region filters                   |
-| Sunil Kumar Kommineni                | 2304770 | Choropleth maps, literacy visuals                    |
-| Damini Madhurika Manjunatha          | 2403891 | Health impact & scatter plots                        |
-| Vishnu Vardhan Mullapudi             | 2253445 | Literacy visuals, formatting                         |
-| Josna Deepa Rayana                   | 2395824 | Trend line, bubble charts                            |
-| Harshini Ratnakumar                  | 2415215 | Climate & agriculture bar graphs                     |
-| Praveen Gurlinka                     | 2315011 | Economic development scatter plots                   |
-| Macha Prajith Sai                    | 2313014 | GDP-literacy visuals, field calculations             |
-
----
 
 ## 🧰 Tools & Techniques
 
@@ -85,24 +62,6 @@ The dataset includes:
 * **Visualization:** Tableau (Maps, Bubble Charts, Bar Graphs, KPIs, Scatterplots)
 * **Design Principles:** Edward Tufte (Graphical Integrity), Colin Ware (Visual Perception & UX)
 
----
-
-## 📜 Report
-
-The detailed project report includes methodology, hypothesis testing, visual design decisions, and key takeaways.
-📝 See `Group-5_Report.pdf` for full documentation.
-
----
-
-## 🧩 Future Work
-
-* Add time-series data for trend forecasting
-* Build predictive models for development indicators
-* Integrate real-time data sources
-
----
-
-## 📢 License
 
 This project is for educational purposes. Contact authors for reuse or collaboration.
 
