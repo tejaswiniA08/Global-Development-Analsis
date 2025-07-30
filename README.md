@@ -63,8 +63,3 @@ The dataset includes:
 * **Design Principles:** Edward Tufte (Graphical Integrity), Colin Ware (Visual Perception & UX)
 
 
-This project is for educational purposes. Contact authors for reuse or collaboration.
-
----
-
-Let me know if you'd like the `README.md` formatted as a downloadable file or tailored for a specific GitHub repository style!
